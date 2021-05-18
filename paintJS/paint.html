@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My online paint</title>
+		<style type="text/css">
+			#buttons {
+				flex-direction: column;
+				justify-content: left;
+			}
+		</style>
+    </head>
+    <body id="body">
+        <div id="maindiv">
+			<label>Taille du crayon :</label>
+			<input type="range" id="lineW" min="1" max="75" value="5">
+			<br>
+			<label>Couleur du fond :</label>
+			<input type="color" id="colorpicker" value="#ffffff">	
+			<input type="button" id="backgroundColor" value="Appliquer">
+			<br>
+			<input type="button" id="eraseAll" value="Reinitialiser">
+			<br>
+			<label>Couleur du crayon :</label>
+			<input type="color" id="colorpickerC" value="#000000">	
+			<input type="button" id="penColor" value="Appliquer">
+			<br>
+			<input type="button" id="eraser" value="Gomme">
+			<input type="button" id="pen" value="Crayon">
+			<br>
+			<label>Largeur :</label>
+			<input type="number" id="width" value="800">
+			<label>Hauteur :</label>
+			<input type="number" id="height" value="800">
+			<input type="button" id="size" value="Ajuster">
+		</div>
+    </body>
+    <script type="text/javascript" src="paint.js"></script>
+</html>

@@ -1,0 +1,11 @@
+[package]
+name = "english_turorial"
+version = "0.1.0"
+authors = ["EINHORN ENZO p1915381 <enzo.einhorn@etu.univ-lyon1.fr>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+crossterm = "0.19.0"
+rand = "0.8.3"

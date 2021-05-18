@@ -1,0 +1,13 @@
+C:\Users\33642\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csprojAssemblyReference.cache
+C:\Users\33642\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfoInputs.cache
+C:\Users\33642\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.AssemblyInfo.cs
+C:\Users\33642\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\33642\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.exe
+C:\Users\33642\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.deps.json
+C:\Users\33642\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.json
+C:\Users\33642\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.runtimeconfig.dev.json
+C:\Users\33642\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\33642\source\repos\StockManagement\StockManagement\bin\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\33642\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.dll
+C:\Users\33642\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.pdb
+C:\Users\33642\source\repos\StockManagement\StockManagement\obj\Debug\netcoreapp3.1\StockManagement.genruntimeconfig.cache

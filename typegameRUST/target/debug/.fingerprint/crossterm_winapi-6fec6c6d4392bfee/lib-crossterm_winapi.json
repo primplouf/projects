@@ -1,0 +1,1 @@
+{"rustc":13067417532801700880,"features":"[]","target":128071954222801770,"profile":6299028598154287785,"path":2663301297144858819,"deps":[[17671881657559241013,"winapi",false,1345698699790236908]],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\crossterm_winapi-6fec6c6d4392bfee\\dep-lib-crossterm_winapi"}}],"rustflags":[],"metadata":673276558892579932,"config":0}
